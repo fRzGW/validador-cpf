@@ -1,8 +1,3 @@
-# validador-cpf
-Projeto rápido com algoritmo para validar um CPF
-
-# como funciona o calculo: 
-
 705.484.450-52 - 070.987.720-03
 
 Primeiro digito:
